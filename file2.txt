@@ -1,3 +1,4 @@
 Goodbye!
 Some other line
 Good bye!
+another line from user2
