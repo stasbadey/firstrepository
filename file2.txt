@@ -1,5 +1,9 @@
 Goodbye!
 Some other line
 Good bye!
+<<<<<<< HEAD
 OMG Christmas beginig now? 
 Check your messages
+=======
+another line from user2
+>>>>>>> b2e487fa8078c69e531366245651d457e78f805b
